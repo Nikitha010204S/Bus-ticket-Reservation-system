@@ -2,7 +2,7 @@
 
 This Java application facilitates the management of bus ticket reservations.
 
-## FEATTURES:
+## Features:
 
 --  System: Allows users to book bus tickets by providing their name, preferred bus number, and date of travel.
 
